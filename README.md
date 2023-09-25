@@ -1,2 +1,2 @@
 # PML-Homework
-Assignment từng tuần của PML Course
+Assignment từng tuần và Mini project của Python Machine Learning Course
